@@ -3119,6 +3119,7 @@ declare module ol {
         }
 
         class OSM {
+             constructor(options?: any);
         }
 
         class Source {
